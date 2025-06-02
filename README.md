@@ -48,12 +48,12 @@ Repositorio monorepo que contiene las tres aplicaciones del proyecto SecurePass:
 ```
 securepass/
 ├── apps/
-│   ├── api/          # Backend (Node.js + Express)
-│   ├── mobile/       # Aplicación móvil (React Native)
+│   ├── api/         # Backend (Node.js + Express)
+│   ├── mobile/      # Aplicación móvil (React Native)
 │   └── web/         # Frontend web (React)
-├── packages/        # Código compartido (opcional)
+├── packages/        # Código compartido
 ├── README.md        # Este archivo
-└── package.json     # Configuración root (opcional)
+└── package.json     # Configuración root
 ```
 
 ## 🚀 Cómo Ejecutar el Proyecto
